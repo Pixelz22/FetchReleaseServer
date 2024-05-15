@@ -1,3 +1,9 @@
+Version: 1.3.4
+- Added UHC Book of Business protocol
+- Stabilized UHC protocols
+- Added button to Settings screen to view Save Directory
+- Changed how GUI supervisor handles arbitrary exceptions
+
 Version: 1.3.3
 - Completed UHC Commissions protocol
 - Added Verification Filter to command line usage
