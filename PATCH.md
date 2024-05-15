@@ -1,3 +1,8 @@
+Version: 1.3.3
+- Completed UHC Commissions protocol
+- Added Verification Filter to command line usage
+- Made Anthem requests more consistent
+
 Version: 1.3.2
 - More intelligent patch notes
 - Small GUI changes
