@@ -1,3 +1,9 @@
+Version: 1.4
+- Added Oscar Protocols
+- Fixed GUI bug where SmartScrolledPanels would reset themselves when updated
+- SmartScrolledPanel now automatically determines its default size
+- SmartScrolledPanel default size now leaves space for scroll bar
+
 Version: 1.3.4
 - Added UHC Book of Business protocol
 - Stabilized UHC protocols
