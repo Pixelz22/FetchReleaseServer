@@ -1,8 +1,19 @@
 Version: 1.4
 - Added Oscar Protocols
+- Added BlueCross BlueShield protocols
+  - for Texas
+  - for Oklahoma
+  - for Illinois
+  - for Montana
+- Added CareSource protocols
+- Added UHC Readiness Protocol (stored separately from rest of UHC for reasons beyond my control)
 - Fixed GUI bug where SmartScrolledPanels would reset themselves when updated
 - SmartScrolledPanel now automatically determines its default size
-- SmartScrolledPanel default size now leaves space for scroll bar
+  - SmartScrolledPanel default size now leaves space for scroll bar
+- Changed wording of Verification Filter to MFA filter for conciseness
+- Fixed bug where Login page wouldn't scroll till a dropdown was clicked
+- File Manager now detects when it can't write to file and prompts user accordingly
+- PullTargets can now opt out of clearing windows after login (required for some providers)
 
 Version: 1.3.4
 - Added UHC Book of Business protocol
