@@ -1,3 +1,8 @@
+Version: 1.4.2
+- Program now automatically restarts after an update
+- More intelligent error message
+- Program now saves screenshots of driver on Web Error
+
 Version: 1.4.1
 - Added confirmation before window closes due to PIP
 - Added How-To section to README file
