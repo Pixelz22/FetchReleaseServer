@@ -1,3 +1,9 @@
+Version: 1.4.1
+- Added confirmation before window closes due to PIP
+- Added How-To section to README file
+- Added more detailed messages to MFA verification code prompts
+- Made Cigna protocols less dependent on window size
+
 Version: 1.4
 - Added Oscar Protocols
 - Added BlueCross BlueShield protocols
