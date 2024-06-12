@@ -1,3 +1,7 @@
+Version: 1.4.3
+- Removed debug break from UHC Login
+- Improved UHC and UHCR MFA prompts
+
 Version: 1.4.2
 - Program now automatically restarts after an update
 - More intelligent error message
