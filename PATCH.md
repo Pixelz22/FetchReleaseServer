@@ -1,3 +1,6 @@
+Version: 1.4.4
+- Updated BCBS logins to account for new MFA page
+
 Version: 1.4.3
 - Removed debug break from UHC Login
 - Improved UHC and UHCR MFA prompts
