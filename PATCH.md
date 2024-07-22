@@ -1,3 +1,8 @@
+Version: 1.4.5
+- Fixed Anthem protocols to be less dependent on website layout
+- Removed download timeout from BCBS protocols
+- Increased timeout for CareSource
+
 Version: 1.4.4
 - Updated BCBS logins to account for new MFA page
 
