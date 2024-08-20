@@ -1,3 +1,7 @@
+Version: 1.4.6
+- Increased Reliability of Anthem and AmBetter BoB protocols
+- Added Oscar BoB protocols
+
 Version: 1.4.5
 - Fixed Anthem protocols to be less dependent on website layout
 - Removed download timeout from BCBS protocols
